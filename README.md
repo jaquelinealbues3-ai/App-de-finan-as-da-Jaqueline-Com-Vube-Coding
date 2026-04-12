@@ -82,6 +82,8 @@ Criar o aplicativo de finanças pessoais foi uma experiência muito positiva, po
 Por outro lado, nem tudo saiu como esperado. O sistema de login apresentou dificuldades, principalmente na recuperação de senha, o que pode gerar confusão e frustração. Esse tipo de problema impacta diretamente a experiência do usuário e pode até fazer com que pessoas desistam de usar o aplicativo.
 Durante esse processo, também aprendi que a inteligência artificial é uma ferramenta de apoio, mas não substitui o pensamento humano. É preciso usar criatividade, esforço e raciocínio próprio. Quando combinamos nossa inteligência com a tecnologia, conseguimos desenvolver ideias mais completas e eficazes.
 
+Site:https://lovable.dev/projects/2f69de61-761b-4b13-b511-4a2c8f10bdce
+
 ![Screenshot_20260411_151339](https://github.com/user-attachments/assets/5c912da8-6b13-4de0-b932-5e7e752d5622)
 ![Screenshot_20260411_200049](https://github.com/user-attachments/assets/72f00b45-fa5b-4044-9dc7-99c66d61ff0f)
 ![Screenshot_20260411_200044](https://github.com/user-attachments/assets/494bdba1-2658-4148-b404-41f04d3409dc)
@@ -108,5 +110,5 @@ Durante esse processo, também aprendi que a inteligência artificial é uma fer
 ![Screenshot_20260411_194211](https://github.com/user-attachments/assets/53d6cb05-9a17-4799-bfdd-d37181330354)
 ![Screenshot_20260411_194219](https://github.com/user-attachments/assets/5cf3366e-393a-4673-8e51-52c083355a29)
 ![Screenshot_20260411_194249](https://github.com/user-attachments/assets/9292be45-a511-413f-99ee-034753058eb0)
-![Screenshot_20260411_200407](https://github.com/user-attachments/assets/e24e62f2-a732-454d-8c7a-18447721a3a6)
+
 
