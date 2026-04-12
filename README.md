@@ -109,5 +109,4 @@ Durante esse processo, também aprendi que a inteligência artificial é uma fer
 ![Screenshot_20260411_194219](https://github.com/user-attachments/assets/5cf3366e-393a-4673-8e51-52c083355a29)
 ![Screenshot_20260411_194249](https://github.com/user-attachments/assets/9292be45-a511-413f-99ee-034753058eb0)
 ![Screenshot_20260411_200407](https://github.com/user-attachments/assets/e24e62f2-a732-454d-8c7a-18447721a3a6)
-![Screenshot_20260411_202320](https://github.com/user-attachments/assets/2b703d91-3e98-4746-b148-109c75323abc)
-![Screenshot_20260411_203747](https://github.com/user-attachments/assets/46d6c42e-ae69-4617-8039-047c1fb76078)
+
