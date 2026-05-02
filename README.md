@@ -1,88 +1,82 @@
-Meu App de Finanças 💰
+Meu App de Mentoria e Refinamento feminino. 
 Projeto Criado com Vibe Coding 
-Prompt pra criar App de Finanças pessoal Aplicativo de Organização de Finanças Pessoais a Jaqueline # App-de-finan-as-da-Jaqueline-Com-Vube-Coding
+Prompt pra criar App de Mentoria Aplicativo de Mentoria e Refinamento  Jaqueline # App-de-men-tor-da-Jaqueline-Com-Vube-Coding
 
  Vibe Coding representa a energia de criar, inovar e resolver. Aqui, cada linha de código nasce com propósito: transformar problemas em soluções inteligentes e novas possibilidades
 
- Promppt:PRD – Aplicativo de Organização de Finanças Pessoais via Conversa
+ Prompt PRD: APP de Mentoria digital via chat interativo.  
 
 1. Contexto
 
-Criar um aplicativo que permita ao usuário organizar suas finanças pessoais por meio de conversas em linguagem natural.
+Desenvolvimento Humano com foco em virtudes clássicas, refinamento feminino e na sabedoria de Provérbios 31.
 
-O objetivo é simplificar o controle financeiro, eliminando a necessidade de formulários complexos ou planilhas.
-
- 
+Refinamento feminino, insitando o desejo real, levando ao despertamento de viver uma vida, plena e virtuosa. Quando a pessoa chegar a uma conclusão, Indique ela que além de ouvir seus conselhos, vá ver vídeos, podcasts e ler livros, sobre as qualidades ou conselhos por você citados. 
 
 2. Problema
 
-Muitos usuários desistem de controlar seus gastos porque:
-
-- Os apps atuais exigem muita entrada manual.
-
-- Há pouca personalização na experiência.
-
+Falta de disciplina para manter hábitos saudáveis. Dificuldade em equilibrar vida pessoal e profissional.  Sensação de vazio ou falta de propósito. Entre outros fatores da realidade atual que impedem a mulher de ter uma vida plena.
  
 
-Solução proposta: oferecer uma experiência conversacional com recomendações automáticas de economia, baseada em Design Universal, garantindo que o app seja acessível e ofereça boa experiência para o maior número possível de usuários.
-
+Solução proposta: APP 1 : Virtuosidade Bloom
+- Sugestões de versículos e reflexões aplicadas ao cotidiano (Filtro de Provérbios31) Lista com 20 reflexões organizadas em sequência.
+- Solução Proposta: APP2 : Bússola da Virtuosidade
+-Uma virtude por dia ou focar em apenas 7 virtudes principais na primeira semana
+-Apoiar mulheres jovens no refinamento pessoal e profissional por meio da prática das virtudes de Provérbios 31, despertando disciplina, propósito e equilíbrio em rotinas diárias.
  
 
 3. Público-Alvo
 
-- Pessoas que desejam iniciar o controle financeiro de forma prática e acessível.
-
-- Usuários iniciantes que não têm familiaridade com planilhas ou apps tradicionais.
-
-- Pessoas com diferentes níveis de habilidade digital, incluindo quem precisa de recursos de acessibilidade.
-
- 
+- jovens mulheres de 18 a 30 anos, que já consomem conteúdos de desenvolvimento pessoal e espiritualidade. 
 
 4. Funcionalidades-Chave
 
-1. Registro de gastos via chat em linguagem natural.
+App1 Virtuosidade Bloom- Chat Direcionado (Árvore de Decisão)perguntas reflexivas (Escuta Ativa).  
+-lista das 20 reflexões organizadas em sequência
+-Desafios práticos ajustados às 20 virtudes
+Desafios Semanais: pequenas tarefas práticas para aplicar no cotidiano. 
+-Chat de Mentoria: núcleo da experiência, com perguntas, reflexões e respostas guiadas.  
 
-2. Classificação automática das transações.
 
-3. Definição e acompanhamento de metas financeiras.
+Funcionaidades-Chave App2 Bússola da Virtuosidade- Uma virtude por dia ou focar em apenas 7 virtudes principais na primeira semana
+- Chat Interativo (Escuta Ativa): Fluxo guiado por árvore de decisão para mentoria diária.  
+- Filtro Provérbios 31: Curadoria de versículos e reflexões aplicadas ao cotidiano.  
+- Jornada de 7 Dias: Ciclo com foco em virtudes: Disciplina, Força, Planejamento, Cuidado (Saúde), Bondade, Doçura e Temor a Deus.  
+- Desafios “Ponte para o Real”: Tarefas práticas de até 15 minutos relacionadas a cada virtude.  
+- Feedback do Usuário: Formulário simples para avaliação de impacto.  
 
-4. Agente Financeiro que fornece dicas de economia personalizadas.
 
-5. Relatórios simples e personalizados.
 
-6. Design Universal: interface inclusiva, com linguagem clara, suporte a acessibilidade (voz, contraste, navegação simplificada).
-
+App1 e 2- Sugestões de versículos e reflexões aplicadas ao cotidiano
  
 
-5. Entregável da IA
+5. Entregável da IA APP1 Virtuosidade Bloom
 
-- Plano de MVP com:
+- Transforme fé em impacto real na vida e na sociedade.  
+Entregável da IA
+Plano MVP
+Principais Telas
+1. Tela de Boas-vindas: apresentação da proposta e onboarding simples.  
+2. Chat de Mentoria: núcleo da experiência, com perguntas, reflexões e respostas guiadas.  
+3. Tela de Virtudes: lista das virtudes clássicas com explicações curtas e aplicabilidade.  
+4. Desafios Semanais: pequenas tarefas práticas para aplicar no cotidiano.  
+5. Feedback do Usuário: espaço para avaliar a experiência e sugerir melhorias.
+---------
 
-  - Principais telas (chat, metas, relatórios).
 
-  - Recursos necessários (NLP para interpretar linguagem natural, categorização automática, motor de recomendações, acessibilidade embutida).
+Entregável de IA APP 2 Bússola da Virtuosidade: Estrutura de Telas (Design Lovable)
+- Tela 01 – Onboarding: Boas-vindas e pergunta inicial (“Onde você precisa de mais ordem hoje?”). Paleta: areia, dourado e off-white.  
+- Tela 02 – Chat: Núcleo da mentoria com balões de conversa, versículos e botões de resposta.  
+- Tela 03 – Mural de Virtudes: Lista das 7 virtudes com cards explicativos.  
+- Tela 04 – Check-in: Barra de progresso e botão “Desafio Concluído”
 
-  - Esboço de validação inicial (testes com usuários diversos, incluindo pessoas com diferentes necessidades de acessibilidade).
+Breve reflexão sobre o processo:No início tava difícil, porque eu ainda não sabia como era lidar com o prompt eu ainda não estava tendo tempo para assistir às aulas sobre os prompts mas depois que eu comecei a assistir sobre prompts e estudar mais então aí veio essa direção de começar a fazer mais nos prompts e então esses novos apps aplicativos foram surgindo e eu fui colocando tudo aquilo que aprendi foi inserido nesses aplicativos na intenção de passar essa experiência para outras pessoas do público feminino porque eu guardo isso há muito tempo e isso é um algo assim que para mim é um presente de Deus ter esse essa sabedoria que eu quis passar nesses aplicativos para o público feminino, de Deus vem toda sabedoria.
+----------
 
-- Linguagem acessível e educativa em português.
 
-Sobre o App “Seu Dinheiro Falante”
-O Seu Dinheiro Falante é um aplicativo de finanças pessoais que permite ao usuário registrar, entender e controlar seu dinheiro de forma simples e inteligente.
-Através de uma interação prática (como uma conversa), o usuário pode informar seus gastos, ganhos e objetivos, e o aplicativo automaticamente organiza essas informações, classificando cada movimentação por categoria como alimentação, transporte, moradia, lazer e saúde.
-O app analisa todos os dados e mostra:
-Quanto o usuário ganha e gasta no mês
-Seu saldo atual
-Onde está gastando mais e menos
-Além disso, gera gráficos visuais que facilitam a compreensão dos hábitos financeiros.
-Também permite o registro de todas as transações, sejam digitais ou em dinheiro, e oferece um sistema de metas financeiras, onde o usuário pode planejar compras e acompanhar seu progresso.
-Cada pessoa possui um login individual, garantindo acesso seguro ao seu histórico e controle completo da sua vida financeira.
 
-Breve reflexão sobre o processo:
-Criar o aplicativo de finanças pessoais foi uma experiência muito positiva, pois a ideia funcionou bem ao permitir organizar tudo o que envolve o dinheiro: o que se tem, o que se guarda e o que se deseja conquistar. Além disso, visualizar os gastos de forma clara ajuda a desenvolver mais consciência financeira e faz com que o usuário pense melhor antes de gastar.
-Por outro lado, nem tudo saiu como esperado. O sistema de login apresentou dificuldades, principalmente na recuperação de senha, o que pode gerar confusão e frustração. Esse tipo de problema impacta diretamente a experiência do usuário e pode até fazer com que pessoas desistam de usar o aplicativo.
-Durante esse processo, também aprendi que a inteligência artificial é uma ferramenta de apoio, mas não substitui o pensamento humano. É preciso usar criatividade, esforço e raciocínio próprio. Quando combinamos nossa inteligência com a tecnologia, conseguimos desenvolver ideias mais completas e eficazes.
-
-Site:https://lovable.dev/projects/2f69de61-761b-4b13-b511-4a2c8f10bdce
+Virtuosidade Bloom (APP1): https://id-preview-b786ca79--a3956dd8-909b-4b53-a1b3-f245d90bbfcd.lovable.app/mentoria
+---------
+Bússola da Virtuosidade (APP 2): https://id-preview-40acf650--21796486-226e-44f6-81ae-de541391446a.lovable.app/
 
 ![Screenshot_20260411_151339](https://github.com/user-attachments/assets/5c912da8-6b13-4de0-b932-5e7e752d5622)
 ![Screenshot_20260411_200049](https://github.com/user-attachments/assets/72f00b45-fa5b-4044-9dc7-99c66d61ff0f)
